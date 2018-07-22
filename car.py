@@ -1,5 +1,5 @@
 class Car():
-    """Represent a car."""
+    """Represent gas and electric cars."""
 
     def __init__(self, make, model, year):
         """Initializw attributes."""
